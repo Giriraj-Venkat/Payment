@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootDataJpaApplication {
 
 	public static void main(String[] args) {
+                //My first app
 		SpringApplication.run(SpringBootDataJpaApplication.class, args);
 	}
 
